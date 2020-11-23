@@ -9,4 +9,6 @@
 
 Font carefully designed for debug web typography
 
-![image](https://user-images.githubusercontent.com/616193/54070162-d261bd00-426d-11e9-97bf-b4b173d8034c.png)
+<p align="center">
+  <img width="553" alt="image" src="https://user-images.githubusercontent.com/616193/100018601-c3c68b00-2ded-11eb-83b5-e2b15101981b.png">
+</p>

@@ -3,7 +3,7 @@
 ```css
 @font-face {
   font-family: "Foo";
-  src: url("./Foo-Regular.ttf") format("truetype");
+  src: url("./Foo-Regular.woff2") format("woff2");
 }
 ```
 
